@@ -5,7 +5,7 @@ some stuff to consider
 
 Title: DNA as an Ecosystem-Encoding Substrate: A Hypothesis on the Systemic Nature of Evolution
 
-Author: [Your Name Here]
+Author: Robert Stange
 
 Abstract:
 This paper proposes a novel perspective on evolution: that DNA is not merely a blueprint for individual organisms, but a generative system capable of encoding entire ecosystems across evolutionary time. It argues that evolutionary changes, while traditionally framed as random mutations filtered by natural selection, may in fact represent the expression of latent, structured possibilities embedded in DNA. This hypothesis is supported by convergent evolution, co-evolutionary dynamics, and the predictability of ecological roles and interactions that recur independently across lineages. The DNA of all living beings is thus proposed to be part of a larger, emergent system that encodes interdependent life forms and the ecosystems they inhabit.
